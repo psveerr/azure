@@ -15,10 +15,11 @@ Terraform version 1.1.8 will be installed as a dependency.
 Step 4: Terraform INIT
 
 This step initializes the Terraform code. It also retrieves information from the remote state file stored in Azure Blob Storage. For this step, an active Azure Subscription ID is required.
-<img width="1607" height="920" alt="Screenshot from 2025-08-30 23-11-01" src="https://github.com/user-attachments/assets/646be8d2-4c01-4048-8939-8590c3c12576" />
+<img width="1607" height="920" alt="Screenshot from 2025-08-30 23-14-22" src="https://github.com/user-attachments/assets/aa5754af-5e3d-4cd4-8d63-5e7f8387d63b" />
+
 
 
 Step 5: Terraform DESTROY
 
 In the final step, Terraform will automatically destroy all existing configurations and remove infrastructure from the cloud.
-<img width="1607" height="920" alt="Screenshot from 2025-08-30 23-11-01" src="https://github.com/user-attachments/assets/67c3d48a-f72b-4d5b-a983-93e1cc48609e" />
+<img width="1607" height="920" alt="Screenshot from 2025-08-30 23-14-26" src="https://github.com/user-attachments/assets/54a0ca23-521c-44bc-988e-9e06193a5c4b" />
