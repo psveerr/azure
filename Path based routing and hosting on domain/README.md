@@ -28,6 +28,7 @@ HTTP settings were configured for port 80 communication.
 
 A listener was created to receive incoming HTTP traffic.
 <img width="1798" height="965" alt="Screenshot from 2025-09-10 18-20-10" src="https://github.com/user-attachments/assets/f53a8a59-498c-4b11-b12a-10f833d49432" />
+<img width="1815" height="1004" alt="Screenshot from 2025-09-10 18-35-21" src="https://github.com/user-attachments/assets/be02e417-a601-432c-b9a0-0e3770002fbe" />
 
 
 Path-Based Routing Rules
